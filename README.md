@@ -18,5 +18,11 @@ A simple and responsive **Netflix landing page ** built using **HTML, CSS, and J
 ## 📱 Screenshots
 
 https://anuja2793.github.io/Netflix-landing-pages/
+
+
+
+
+
+
 https://github.com/user-attachments/assets/448a61ac-990e-473d-abfe-d7d337fe7544
 
